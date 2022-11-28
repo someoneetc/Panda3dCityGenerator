@@ -1,6 +1,3 @@
-[submodule "Procedural-road-network-generation"]
-	path = Procedural-road-network-generation
-	url = https://github.com/pokitoz/Procedural-road-network-generation
 [submodule "Panda3dTerrainGenerator"]
 	path = Panda3dTerrainGenerator
 	url = https://github.com/someoneetc/Panda3dTerrainGenerator
